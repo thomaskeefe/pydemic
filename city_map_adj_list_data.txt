@@ -1,0 +1,48 @@
+san_francisco chicago los_angeles manila tokyo
+chicago montreal atlanta mexico_city los_angeles san_francisco
+montreal chicago new_york washington
+new_york london madrid washington montreal
+washington montreal new_york atlanta
+atlanta washington miami chicago
+london essen paris madrid new_york
+madrid london paris algiers sao_paolo new_york
+paris essen milan algiers madrid london
+essen st_petersburg milan paris london
+milan essen istanbul paris
+st_petersburg moscow istanbul essen
+los_angeles chicago mexico_city sydney san_francisco
+mexico_city chicago miami bogota lima los_angeles
+miami washington bogota mexico_city atlanta
+bogota miami sao_paolo buenos_aires lima mexico_city
+lima bogota santiago mexico_city
+santiago lima
+sao_paolo madrid lagos buenos_aires bogota
+buenos_aires sao_paolo bogota
+lagos khartoum kinshasa sao_paolo
+kinshasa khartoum johannesburg lagos
+khartoum johannesburg kinshasa lagos cairo
+johannesburg khartoum kinshasa
+algiers istanbul cairo madrid paris
+istanbul st_petersburg moscow baghdad cairo algiers milan
+cairo istanbul baghdad riyadh khartoum algiers
+moscow tehran istanbul st_petersburg
+baghdad tehran karachi riyadh cairo istanbul
+riyadh karachi cairo baghdad
+tehran delhi karachi baghdad moscow
+karachi delhi mumbai riyadh baghdad tehran
+mumbai delhi chennai karachi
+delhi kolkata chennai mumbai karachi tehran
+chennai kolkata bangkok jakarta mumbai delhi
+kolkata hong_kong bangkok chennai delhi
+bangkok hong_kong ho_chi_minh_city jakarta chennai kolkata
+jakarta bangkok ho_chi_minh_city sydney chennai
+beijing seoul shanghai
+shanghai seoul tokyo hong_kong beijing
+hong_kong taipei manila ho_chi_minh_city bangkok kolkata shanghai
+ho_chi_minh_city hong_kong manila jakarta bangkok
+seoul tokyo shanghai beijing
+taipei osaka manila hong_kong shanghai
+manila san_francisco sydney ho_chi_minh_city hong_kong taipei
+sydney los_angeles jakarta manila
+tokyo san_francisco osaka shanghai seoul
+osaka taipei tokyo
